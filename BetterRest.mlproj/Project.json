@@ -1,0 +1,29 @@
+{
+  "activityEntities" : [
+    "projectCreated",
+    [
+      {
+        "createdDate" : "2025-10-01T15:00:06Z",
+        "event" : "projectCreated",
+        "id" : "5C3505D1-9BD7-4F94-A104-EAB0CA47FF5C",
+        "subtitle" : "BetterRest",
+        "title" : "Project Created"
+      }
+    ]
+  ],
+  "authorName" : "Antonio Giroz",
+  "createdDate" : "2025-10-01T15:00:06Z",
+  "description" : "",
+  "id" : "732A612D-70DD-4CCE-A302-E5791F4DD569",
+  "license" : "",
+  "location" : "",
+  "modifiedDate" : "2025-10-01T15:00:06Z",
+  "projectName" : "BetterRest",
+  "settingsEntity" : {
+    "snapshotOnExtendTraining" : true,
+    "snapshotOnResumeTraining" : false
+  },
+  "taskType" : "generalRegresor",
+  "title" : "Tabular Regression",
+  "version" : "1.1"
+}
